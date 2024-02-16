@@ -1,0 +1,17 @@
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\bin\Debug\Cameras For Real This Time.deps.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\bin\Debug\Cameras For Real This Time.runtimeconfig.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\bin\Debug\Cameras For Real This Time.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\bin\Debug\Cameras For Real This Time.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.csproj.AssemblyReference.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.AssemblyInfoInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.AssemblyInfo.cs
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.csproj.CoreCompileInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.csproj.CopyComplete
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\refint\Cameras For Real This Time.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\Cameras For Real This Time.genruntimeconfig.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\Cameras for Real this time\.godot\mono\temp\obj\Debug\ref\Cameras For Real This Time.dll

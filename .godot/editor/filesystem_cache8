@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1708102400
+icon.svg::CompressedTexture2D::708354396744863285::1707921009::1707921020::1::::<><>::
+slime.tscn::PackedScene::3133783931381093391::1708102367::0::1::::<><>::res://SlimePlayer.cs<>uid://cfumoviqd35hx::::res://Art/Idle.png<>uid://da330vbelitgv::::res://Art/Jump.png<>uid://d3mw2qjybtm05::::res://Art/Run.png<>uid://dp81frrsdv6ay::::res://Art/Walk.png
+SlimePlayer.cs::CSharpScript::-1::1708102337::0::1::::<>CharacterBody2D<>::
+world.tscn::PackedScene::3435452070075884565::1708102367::0::1::::<><>::uid://bkwa702lpcjf8::::res://slime.tscn
+::res://Art/::1707921136
+Idle.png::CompressedTexture2D::5165827861766325261::1686069388::1707921136::1::::<><>::
+Jump.png::CompressedTexture2D::7218810453569995741::1686069930::1707921136::1::::<><>::
+Run.png::CompressedTexture2D::9150707051638611720::1686069730::1707921136::1::::<><>::
+Walk.png::CompressedTexture2D::8281807662296549484::1686069586::1707921136::1::::<><>::

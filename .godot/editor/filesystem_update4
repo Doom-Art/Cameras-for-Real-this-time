@@ -1,0 +1,5 @@
+res://slime.tscn
+res://world.tscn
+res://SlimePlayer.cs
+res://GameUI.cs
+res://game_ui.tscn

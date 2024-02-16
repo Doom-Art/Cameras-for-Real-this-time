@@ -1,0 +1,26 @@
+[gd_scene load_steps=2 format=3 uid="uid://dc5tmyhhuvcg4"]
+
+[ext_resource type="Script" path="res://GameUI.cs" id="1_xwmcf"]
+
+[node name="GameUI" type="CanvasLayer"]
+script = ExtResource("1_xwmcf")
+
+[node name="Pause" type="Button" parent="."]
+offset_left = 1080.0
+offset_top = 8.0
+offset_right = 1135.0
+offset_bottom = 39.0
+focus_mode = 0
+text = "Pause"
+
+[node name="Resume" type="Button" parent="."]
+process_mode = 2
+offset_left = 1071.0
+offset_top = 51.0
+offset_right = 1141.0
+offset_bottom = 82.0
+focus_mode = 0
+text = "Resume"
+
+[connection signal="pressed" from="Pause" to="." method="Pause"]
+[connection signal="pressed" from="Resume" to="." method="Resume"]
